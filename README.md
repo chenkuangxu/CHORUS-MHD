@@ -1,4 +1,11 @@
 # CHORUS-MHD
+CHORUS-MHD is an ongoing open-source code project funded by NSF and AFOSR led by Professor Chunlei Liang at Clarkson University. 
+CHORUS-MHD project website:
+https://sites.google.com/site/chorusmhdopensourceproject
+Professor Chunlei Liang:
+https://www.clarkson.edu/people/chunlei-liang
+The CHORUS-MHD code is a parallel, high-order solver of three-dimensional magnetohydrodynamics (MHD) equations based on unstructured hexahedral meshes.
+
 This code uses the high-order Spectral Difference method with Unstaggered Constrained Transport to perform compressible magnetohydrodynamic simulations.
 This method can preserve the divergence-free constraint exactly and globally.
 For details about the numerical methods, please refer to the journal publication
